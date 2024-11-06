@@ -1,6 +1,5 @@
 <header>
 
-Hello there! This is a required add-on to the README file
 🙋‍♂️🙋‍♂️🙋‍♂️
 
 # Hello GitHub Actions
